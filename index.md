@@ -8,3 +8,7 @@ I don't really know what this is doing
 ``` javascript
 var myVar = "Hello, world!";
 ```
+### Task List:
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
